@@ -1,2 +1,3 @@
 site_name: Virtual Dressing Project
-theme: readthedocs
+theme: 
+  name: bootstrap386
