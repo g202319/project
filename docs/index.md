@@ -1,8 +1,44 @@
+# GRP Team202319
 
-------------------------------
+``` text
+Starting date: Oct.16th, 2023
+Due date: April.24th, 2024
+```
 
-# Bespoke Artificial Textual Assistant (BATA): An Innovative Fusion of Localized Large Language Models for Next-Generation Virtual Interaction
+## Project Name: Online Virtual Dressing Room
 
-In the ever-evolving landscape of artificial intelligence, there exists an inexorable quest for the development of intelligent and responsive virtual entities that can seamlessly integrate into our daily lives. BATA, an acronym for "Bespoke Artificial Textual Assistant," is a pioneering advancement in this realm, representing a convergence of state-of-the-art technologies. This virtual human, powered by Unreal Engine 5 and localized Large Language Models (LLMs), is a testament to the relentless pursuit of enhancing human-computer interaction and ushering in a new era of human-centric AI.
+## Module convenor & Supervisor
 
-The concept of BATA envisions an artificial textual assistant that transcends the conventional boundaries of text-based interactions. By harnessing the capabilities of Unreal Engine 5, a groundbreaking game engine renowned for its exceptional graphical fidelity and real-time interactivity, BATA aims to imbue virtual humans with unparalleled levels of realism, responsiveness, and versatility. Unreal Engine 5's advanced rendering and animation systems, combined with its impressive capacity for simulating virtual worlds, offer an ideal foundation for the creation of immersive and lifelike conversational agents.
+### Module Convenor: Prof. Dave Towey
+
+<div style="display: flex; align-items: center;">
+<img src="https://research.nottingham.edu.cn/files-asset/22848179/dave-towey.xe814a761.png/" style = "margin-right: 25px;">
+    <p>Dr. Towey's research is in huge field, including technology-enhanced teaching and learning, and software testing, especially metamorphic testing and adaptive random testing. He is quite experienced in teaching and he has had taught 10 modules in UNNC.
+    </p>
+</div>
+
+### Supervisor: Dr Qian Zhang
+
+<div style="display: flex; align-items: center;">
+  <img src="https://research.nottingham.edu.cn/files-asset/22849587/qian-zhang.xec79d785.jpg?w=320&f=webp" alt="Qian's image" style=" margin-right: 25px;">
+  <p>Dr. Qian's main research area is computer vision, and she focus on the topic of partial-duplicate large-scale image discovery. Corresponding contributions include areas of large-scale duplicate image detection, content-based image retrieval, image spatial verification, pattern recognition and large-scale image clustering, as well as knowledge discovery in large image collections.</p>
+</div>
+
+## Project Overview
+
+E-commerce has been rising rapidly in popularity. The way we shop has changed. Everyone used to have to go to retail stores in order to shop for things. E-commerce allows shopping with a single push of a button. During its rise, online clothing stores started popping up, initially not being as popular. During the recent pandemic, online clothing stores were the only option. One by one, more and more clothing stores appeared. Small businesses, huge businesses all joined in. In some countries, they end up being the new normal.
+
+Even with this industry rapidly gaining popularity, there’s still one thing that makes old school shopping better. Trying on clothes. Not being able to try on the clothes is the worst thing about clothes shopping online. Sizing could be off, might not look good on you, and several other reasons. Some of us do not have the time to be able to drive from place to place to find the right shirt, to queue in the monstrous long lines of the dressing room, the money to spend on gas driving back and forth.
+
+Our aim with this project is to allow everyone to be able to try on clothes from wherever they are. Eliminating that feeling of unsureness before spending their savings on clothes they might or might not like. And even when they are not purchasing, just to have fun trying on different outfits.
+
+## Group members
+
+|Name|Student ID|E-mail|
+|:---:|:---:|:---:|
+|Zheyuan JIANG|20418086|*scyzj6@nottingham.edu.cn*|
+|Zhikai HU|20411218|*scyzh8@nottingham.edu.cn*|
+|YeeYang TAN|20414203|*hfyyt11@nottingham.edu.cn*|
+|Chenglong XIA|20417172|*scycx5@nottingham.edu.cn*|
+|Elkin Agilroy KRISTAN|20415955|*scyke1@nottingham.edu.cn*|
+|Xingze LIU|20411512|*scyxl13@nottingham.edu.cn*|
