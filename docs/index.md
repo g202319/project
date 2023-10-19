@@ -1,3 +1,5 @@
+---
+
 # GRP Team202319
 
 ``` text
@@ -7,9 +9,7 @@ Due date: April.24th, 2024
 
 ## Project Name: Online Virtual Dressing Room
 
-## Module convenor & Supervisor
-
-### Module Convenor: Prof. Dave Towey
+## Module Convenor: Prof. Dave Towey
 
 <div style="display: flex; align-items: center;">
 <img src="https://research.nottingham.edu.cn/files-asset/22848179/dave-towey.xe814a761.png/" style = "margin-right: 25px;">
@@ -17,7 +17,7 @@ Due date: April.24th, 2024
     </p>
 </div>
 
-### Supervisor: Dr Qian Zhang
+## Supervisor: Dr Qian Zhang
 
 <div style="display: flex; align-items: center;">
   <img src="https://research.nottingham.edu.cn/files-asset/22849587/qian-zhang.xec79d785.jpg?w=320&f=webp" alt="Qian's image" style=" margin-right: 25px;">
