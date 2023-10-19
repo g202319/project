@@ -17,9 +17,9 @@ jobs:
       - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
       - uses: actions/cache@v3
         with:
-          key: mkdocs-bootstrap386-${{ env.cache_id }}
+          key: mkdocs-simple-blog-${{ env.cache_id }}
           path: .cache
           restore-keys: |
-            mkdocs-bootstrap386-
-      - run: pip install mkdocs-bootstrap386 mkdocs
+            mkdocs-simple-blog-
+      - run: pip install mkdocs-simple-blog mkdocs
       - run: mkdocs gh-deploy --force
