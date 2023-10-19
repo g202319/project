@@ -1,3 +1,2 @@
 site_name: Virtual Dressing Project
-theme:
-  name: material
+theme: readthedocs
