@@ -4,3 +4,4 @@ nav:
 - Catalogue: Requirement.md
 theme: 
   name: simple-blog
+  title_style: bold
