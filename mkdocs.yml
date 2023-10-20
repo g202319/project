@@ -1,6 +1,6 @@
 site_name: Virtual Dressing Project
 nav:
 - Overview: index.md
-- Requirement: Requirement.md
+- Catalogue: Requirement.md
 theme: 
   name: simple-blog
