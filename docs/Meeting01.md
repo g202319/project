@@ -1,8 +1,6 @@
 
 ---
 
-# Week01 Oct.16th-Oct.22nd
-
 ## <p align="center">Meeting01 - `Formal`</p>
 
 <p align="center">
