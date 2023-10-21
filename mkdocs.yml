@@ -2,7 +2,8 @@ site_name: Virtual Dressing Project
 nav:
 - Overview: index.md
 - Catalogue: Requirement.md
-- Minutes: MeetingCatalogue.md
+- Minutes: 
+  - Meeting Catelogue: MeetingCatalogue.md
   - Meeting01: Meeting01.md
   - Meeting02: Meeting02.md
 theme: 
