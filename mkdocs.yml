@@ -2,6 +2,9 @@ site_name: Virtual Dressing Project
 nav:
 - Overview: index.md
 - Catalogue: Requirement.md
+- Minutes: MeetingCatalogue.md
+  - Meeting01: Meeting01.md
+  - Meeting02: Meeting02.md
 theme: 
   name: simple-blog
   title_style: bold
