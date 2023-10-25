@@ -6,6 +6,7 @@ nav:
   - Meeting Catelogue: MeetingCatalogue.md
   - Meeting01: Meeting01.md
   - Meeting02: Meeting02.md
+  - Meeting03: Meeting03.md
 theme: 
   name: simple-blog
   title_style: bold
