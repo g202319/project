@@ -7,6 +7,7 @@ nav:
   - Meeting01: Meeting01.md
   - Meeting02: Meeting02.md
   - Meeting03: Meeting03.md
+  - Meeting05: Meeting05.md
 theme: 
   name: simple-blog
   title_style: bold
