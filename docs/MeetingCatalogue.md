@@ -19,3 +19,27 @@
 
 * ***Progress update***
 * ***Discussion about the possible solutions of the software***
+
+## Meeting04(`Informal`)
+
+* ***Deciding the final solution of the software***
+
+# Week04(2023.10.30-2023.11.5)
+
+## Meeting05(`Formal`)
+
+* ***Progress update***
+* ***Checking requirements specifications***
+* ***Deciding the final solution of the software***
+
+ ## Meeting06(`Informal`)
+
+ * Decide the details of solutions
+
+# Week05(2023.11.6-2023.11.14)
+
+## Meeting07(`Formal`)
+* ***Progress update***
+* ***Checking the parts of the interim report writing***
+
+
