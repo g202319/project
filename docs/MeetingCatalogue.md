@@ -36,10 +36,18 @@
 
  * Decide the details of solutions
 
-# Week05(2023.11.6-2023.11.14)
+# Week05(2023.11.6-2023.11.12)
 
 ## Meeting07(`Formal`)
 * ***Progress update***
 * ***Checking the parts of the interim report writing***
+
+# Week06(2023.11.13-2023.11.19)
+
+## Meeting08(`Formal`)
+
+* ***Progress update***
+* **Discussing the diagrams implementation**
+* **Discussing the realization of AI Cloth partnering**
 
 
