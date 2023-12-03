@@ -50,4 +50,11 @@
 * **Discussing the diagrams implementation**
 * **Discussing the realization of AI Cloth partnering**
 
+# Week07(2023.11.20-2023.11.26)
+*No meetings this week, left for interim report writing*
 
+# Week08(2023.11.27-2023.12.3)
+
+## Meeting09(`Formal`)
+
+* **Discuss about the interim report**
