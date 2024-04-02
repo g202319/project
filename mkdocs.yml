@@ -10,6 +10,10 @@ nav:
   - Meeting05: Meeting05.md
   - Meeting08: Meeting08.md
   - Meeting09: Meeting09.md
+  - Meeting10: Meeting10.md
+  - Meeting11: Meeting11.md
+  - Meeting12: Meeting12.md
+  
 theme: 
   name: simple-blog
   title_style: bold
